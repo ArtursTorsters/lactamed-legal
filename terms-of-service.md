@@ -1,6 +1,6 @@
 # Terms of Service for LactaMed
 
-**Effective Date:** [Insert Date]
+**Effective Date:** []
 
 ## Medical Disclaimer
 LactaMed provides general educational information only. This is NOT medical advice. Always consult qualified healthcare providers before making medication decisions during breastfeeding.
@@ -19,4 +19,4 @@ LactaMed provides general educational information only. This is NOT medical advi
 We disclaim all warranties and are not liable for any health outcomes or medical decisions based on app information.
 
 ## Contact
-Email: [your-email@domain.com]
+Email: []
