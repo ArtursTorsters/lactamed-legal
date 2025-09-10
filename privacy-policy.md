@@ -1,6 +1,6 @@
 # Privacy Policy for LactaMed
 
-**Effective Date:** [Insert Date]
+**Effective Date:** []
 
 ## Information Collection
 LactaMed does not collect, store, or transmit personal health information. All medication searches are processed anonymously.
@@ -11,10 +11,10 @@ LactaMed does not collect, store, or transmit personal health information. All m
 - No user accounts or profiles are created
 
 ## External Services
-This app queries e-lactancia.org for medical information. Their privacy policy applies to data sent to their servers.
+This application uses e-lactancia.org for medical information. Their privacy policy applies to data sent to their servers.
 
 ## Medical Disclaimer
-This app provides general information only and is not medical advice. Always consult healthcare providers before making medication decisions.
+This application provides general information only and is not medical advice. Always consult healthcare providers before making medication decisions.
 
 ## Contact
-Email: [your-email@domain.com]
+Email: []
